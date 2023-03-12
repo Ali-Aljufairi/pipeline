@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> you have been hacked .
+          Edit <code>src/App.js</code> Hi Walaa did you open this .
         </p>
         <a
           className="App-link"
