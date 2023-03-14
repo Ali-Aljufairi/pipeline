@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Hi Walaa did you open this .
+
+          Hi there! Boccia team how is the meeting so far ? I am trying to make a change to the code and see if it will be able to see 
+          with AWS pipline
         </p>
         <a
           className="App-link"
